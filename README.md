@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+## Profile
+
+## Links
+
+### SNS
+- [Timttwe(X)](https://x.com/Sudo_notfound)
+### Other
+- [Github](https://github.com/sudonotfound/)
+- [connpass](https://connpass.com/user/Sudonotfound/)
+- [Zenn](https://zenn.dev/sudonotfound)
+
 <!--
 **sudonotfound/sudonotfound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
